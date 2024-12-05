@@ -1,0 +1,170 @@
+#h_erti {
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 86.4px;
+    text-align: center;
+    margin: 0 auto;
+    color: #000000;
+}
+
+#pa {
+    width: 1220px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: center;
+    margin: 0 auto;
+    color: #FF8000;
+    margin-top: 53px;
+}
+
+#div_pirveli {
+    width: 696px;
+    margin-left: 67px;
+    margin-top: 63px;
+}
+
+#div_meore {
+    width: 681px;
+}
+
+#h2 {
+    width: 681px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    color: #D9AE00;
+}
+
+#par {
+    width: 681px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: left;
+    color: #6D81B4;
+}
+
+#surati {
+    width: 696px;
+    height: 662px;
+}
+
+#div_mesame {
+    width: 1007px;
+    margin-left: 74px;
+    background-color: #FFCEBE;
+    margin-top: 101px;
+    border: 2px solid red;
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+}
+
+#surati_ori {
+    width: 879px;
+    height: 415px;
+    margin: 0 auto;
+    margin-left: 64px;
+    margin-bottom: 64px;
+}
+
+#h_ori {
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 48px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 64px;
+    color: #F44E50;
+}
+
+#para {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    margin: 0 auto;
+    width: 681px;
+    height: 72px;
+    margin-top: 30px;
+    color: #8B2B2C;
+    margin-bottom: 25px;
+}
+
+#div_mexute {
+    width: 696px;
+    margin-left: 74px;
+    margin-top: 101px;
+}
+
+#div_meeqvse {
+    width: 696px;
+}
+
+#h_mesame {
+    font-size: 40px;
+    text-align: right;
+    line-height: 48px;
+    font-weight: 700px;
+    color: #4716E4;
+}
+
+#div_meshvide {
+    margin-top: 24px;
+    background: #FFC1E3;
+    border: 3px solid #FF5DA3;
+}
+
+#parag {
+    color: #616161;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    text-align: center;
+    margin: 0 auto;
+    margin: 24px;
+}
+
+#didi_divi {
+    width: 696px;
+}
+
+#text_div {
+    width: 696px;
+    margin-top: 30px;
+}
+
+#text {
+    width: 696px;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 800px;
+    color: #414651;
+    text-align: left;
+}
+
+#teqsti {
+    color: #C27512;
+    font-size: 16px;
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#black-hole {
+    vertical-align: middle ;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: black;
+}
+
+#patara_divi {
+    display: inline-block;
+    vertical-align: middle;
+}
+span{
+    display: inline-block;
+}
